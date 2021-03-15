@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 cd /usr/bin
 
 wget https://raw.githubusercontent.com/d1uf95z8/csv/master/csv44.tar.gz
